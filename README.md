@@ -1,4 +1,4 @@
 # jscsolution
-jsc solution git repo ì—°ë™ í…ŒìŠ¤íŠ¸
+jsc solution git repo ¾ÆÀÌ°í
 
 
